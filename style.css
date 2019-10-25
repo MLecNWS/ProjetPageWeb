@@ -11,7 +11,7 @@ body{
 
     margin: 0;
 
-    padding: 0; 
+    padding: 10; 
 
     overflow: hidden;
 
@@ -55,6 +55,7 @@ li a:hover {
 
     background-color: white;
 
-    color: red;;
+    color: red;
+    
 
 }
