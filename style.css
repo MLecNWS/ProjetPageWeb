@@ -1,0 +1,60 @@
+body{
+    background-color: black;;
+}
+
+
+
+
+.navigation ul {
+
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0; 
+
+    overflow: hidden;
+
+    height: 10vh;
+
+    justify-content: center;
+
+    display: flex;
+
+} 
+
+ 
+
+li{
+
+    width: 160px;
+
+    text-align: center;
+
+}
+
+ 
+
+li a {
+
+    display: block;
+
+    color: white;
+
+    padding: 40px 20px;
+
+    text-decoration: none;
+
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+
+ 
+
+li a:hover {
+
+    background-color: white;
+
+    color: red;;
+
+}
