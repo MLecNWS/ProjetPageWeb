@@ -1,5 +1,5 @@
 body{
-    background-color:white;
+    background-color:black;
 }
 
 nav {
@@ -46,4 +46,10 @@ li{
     width: 160px;
 
     text-align: center;
+}
+div {
+    color: white;
+}
+p {
+    color: white;
 }
