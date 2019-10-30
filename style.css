@@ -53,3 +53,10 @@ div {
 p {
     color: white;
 }
+
+.wrapper{
+    display: grid;
+    grid-template: repeat(2,1fr);
+    grid-column-gap: 10px ;
+    grid-row-gap: 3em;
+}
