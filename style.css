@@ -50,13 +50,12 @@ li{
 div {
     color: white;
 }
+.grille{
+display: grid;
+grid-template-columns: repeat(3,2fr);
+
+}
 p {
     color: white;
 }
 
-.Présentation{
-    display: grid;
-    grid-template: repeat(2,1fr);
-    grid-column-gap: 10px ;
-    grid-row-gap: 3em;
-}
