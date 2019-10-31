@@ -47,14 +47,12 @@ li{
 
     text-align: center;
 }
+
 div {
     color: white;
 }
-.grille{
-display: grid;
-grid-template-columns: repeat(3,2fr);
 
-}
+
 p {
     color: white;
 }
