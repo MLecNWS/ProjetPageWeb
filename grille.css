@@ -4,3 +4,7 @@
     grid-column-gap: minmax(auto);
     grid-row-gap: 3em;
 }
+
+#Tuile2 {
+    background-color: white;
+}
