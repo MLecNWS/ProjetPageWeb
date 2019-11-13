@@ -1,5 +1,10 @@
 body{
     background-color: red;;
+    
+
+    font-family: 'Exo 2', sans-serif;
+
+
 }
 
 nav {
@@ -26,7 +31,9 @@ li a {
 
     text-decoration: none;
 
-    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-family: 'Exo 2', sans-serif;
+
+
 
 }
 
