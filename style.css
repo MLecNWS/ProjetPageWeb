@@ -6,6 +6,13 @@ body{
 
 
 }
+h1{
+    
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    color: white;
+
+}
 
 nav {
 	padding: 0; margin: 0;
