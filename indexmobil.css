@@ -1,7 +1,8 @@
 body{
     background-color: red;
-
+    
     font-family: 'Exo 2', sans-serif;
+
 }
 
 h1{
@@ -27,6 +28,8 @@ nav a {
 
 
 li a {
+
+
 
     font-family: 'Exo 2', sans-serif;
 
@@ -56,29 +59,7 @@ li{
     text-align: center;
 }
 
-div {
-    color: white;
-}
-
-
-p {
-    color: white;
-}
-
-#col2lin1{
-    background-color: white;
-}
-
-#col1lin3{
-    color: black;
-    background-color: white;
-}
-
-#col2lin6{
-    background-color: white;
-}
-
-#col1lin7{
-    background-color: white;
-    color: black;
+img{
+    width: 360px;
+    height: auto;
 }
