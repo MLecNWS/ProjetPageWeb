@@ -1,5 +1,5 @@
 body{
-    background-color: red;
+    background-color: #b21c1c;
 
     font-family: 'Exo 2', sans-serif;
 }
@@ -70,7 +70,7 @@ p {
 }
 
 #col1lin3{
-    color: black;
+    color: #b21c1c;
     background-color: white;
 }
 
@@ -80,5 +80,5 @@ p {
 
 #col1lin7{
     background-color: white;
-    color: black;
+    color: #b21c1c;
 }
