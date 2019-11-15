@@ -49,12 +49,6 @@ li a:hover {
 
 }
 
-li{
-
-    width: 160px;
-
-    text-align: center;
-}
 
 div {
     color: white;
@@ -81,4 +75,11 @@ p {
 #col1lin7{
     background-color: white;
     color: #b21c1c;
+}
+#col2lin10{
+    background-color: white;
+}
+
+#Formation{
+    margin-left: 0%;
 }
