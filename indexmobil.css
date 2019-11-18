@@ -67,3 +67,7 @@ img{
     width: 360px;
     height: auto;
 }
+
+body > header > img{
+    width: 100%;
+}
