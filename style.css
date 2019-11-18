@@ -1,7 +1,7 @@
 body{
     background-color: #b21c1c;
 
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Rajdhani', sans-serif;
 }
 
 h1{
@@ -28,7 +28,7 @@ nav a {
 
 li a {
 
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Rajdhani', sans-serif;
 
     color: white;
 
@@ -82,4 +82,9 @@ p {
 
 #Formation{
     margin-left: 0%;
+}
+
+#col1lin3 > img{
+    margin: 0%;
+    padding: 0%;
 }
