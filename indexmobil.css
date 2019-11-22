@@ -18,7 +18,8 @@ h1{
 }
 
 nav {
-	padding: 0; margin: 0;
+    padding: 0; margin: 0;
+    padding-right: 10%;
 	text-align: center; /* centrer le texte */
 }
 nav li {
@@ -33,8 +34,6 @@ nav a {
 
 li a {
 
-
-
     font-family: 'Rajdhani', sans-serif;
 
     color: white;
@@ -42,7 +41,6 @@ li a {
     padding: 40px 40px;
 
     text-decoration: none;
-
 }
 
  
