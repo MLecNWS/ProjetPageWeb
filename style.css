@@ -2,7 +2,7 @@ body{
     background-color: #b21c1c;
 
     font-family: 'Rajdhani', sans-serif;
-    color: white;
+    color: black;
     font-size: 1.5em;
 }
 
@@ -58,11 +58,14 @@ div {
 
 
 p {
-    color: white;
+    color:#b21c1c;
 }
 
 #col1lin1{
     padding: 5%;
+    background-color: white;
+    margin-left: -5%;
+    margin-right: -5%;
 }
 
 #col2lin1{
@@ -70,12 +73,17 @@ p {
 }
 
 #col1lin3{
-    color: #b21c1c;
+    color: black;
     background-color: white;
     margin-left: -5%;
     margin-right: -5%;
 }
 
+#col1lin5{
+    background-color: white;
+    margin-left: -1%;
+    margin-right: -5%;
+}
 
 #col2lin6{
     background-color: white;
@@ -83,9 +91,14 @@ p {
 
 #col1lin7{
     background-color: white;
-    color: #b21c1c;
+    color: black;
     margin-left: -1%;
-    margin-right: -1%;
+    margin-right: -5%;
+}
+#col1lin9{
+    background-color: white;
+    margin-left: -2%;
+    margin-right: -5%;
 }
 
 #col2lin10{
@@ -96,10 +109,12 @@ p {
     margin-left: -1%;
 }
 
-#col1lin3 > img{
-    margin: 0%;
-    padding: 0%;
+#col1lin3{
+
+    text-align: center;
 }
+
+
 
 body > header > img{
     width: 100%;
@@ -108,4 +123,11 @@ body > header > img{
 
 h2{ 
     text-align: center;
+    color: #b21c1c;
 }
+
+footer{
+    text-align: center;
+    color: white;
+}
+
