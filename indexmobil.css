@@ -77,7 +77,12 @@ body > header > img{
     padding: 5%;
     background-color: white;
     margin-left: -5%;
-    margin-right: -6%;
+    margin-right: -2%;
+}
+
+#col1lin1 > img{
+    width: 75%;
+    height: 75%;
 }
 
 #col2lin1{
@@ -88,13 +93,13 @@ body > header > img{
     color: black;
     background-color: white;
     margin-left: -5%;
-    margin-right: -6%;
+    margin-right: -2%;
 }
 
 #col1lin5{
     background-color: white;
     margin-left: -3%;
-    margin-right: -6%;
+    margin-right: -2%;
 }
 
 #col2lin6{
@@ -105,12 +110,12 @@ body > header > img{
     background-color: white;
     color: black;
     margin-left: -3%;
-    margin-right: -6%;
+    margin-right: -2%;
 }
 #col1lin9{
     background-color: white;
     margin-left: -3%;
-    margin-right: -6%;
+    margin-right: -2%;
     text-align: left;
 }
 
@@ -125,4 +130,9 @@ body > header > img{
 #col1lin3 > img{
     margin: 0%;
     padding: 0%;
+}
+
+li{
+    margin-left: 2%;
+    text-align: left;
 }
