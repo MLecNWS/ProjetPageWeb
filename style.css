@@ -66,6 +66,7 @@ p {
     background-color: white;
     margin-left: -5%;
     margin-right: -5%;
+    
 }
 
 #col2lin1{
@@ -133,4 +134,11 @@ footer{
 
 li{
     margin-left: 2%;
+}
+
+#col1lin1 > img{
+    text-align: center;
+    width: 600px;
+    height: 400px;
+    
 }
